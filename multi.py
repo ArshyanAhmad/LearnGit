@@ -1,4 +1,5 @@
 a = 3
 b = 5
 
-print(a * b)
+print(f"The multiply of {a} and {b} is",a * b)
+
