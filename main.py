@@ -1,3 +1,3 @@
 a = 3
 b = 5
-print(a + b)
+print(f"The sum of {a} and {b} is ",a + b)
